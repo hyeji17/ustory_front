@@ -44,13 +44,17 @@
 ---
 
 ## ⚙️ Tech Stack
-- **Language**: ![Java](https://img.shields.io/badge/Java17-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-- **Framework**: <img src="https://img.shields.io/badge/Spring Boot 3.2.5-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-- **Library**: <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Query DSL-527FFF?style=flat&logoColor=white"/>
-- **DataBase**: <img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis 7.2-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
-- **Deploy**: ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
-- **IDE**: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-- **ETC**: <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+- **Language**: <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=JavaScript&logoColor=white"/>
+- **Framework**: <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white"/>
+- **Development Tools**: <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
+- **Library**:  <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+- **Styling**: <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=flat&logo=sass&logoColor=white"/>
+- **Deploy**: ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> 
+- **IDE**: <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+- **Design Tool**: 
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
+- **Communication**: <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 <br>
 
@@ -86,9 +90,9 @@
 
 ---
 
-## ⚖️ Coding Convention
+## ⚖️ Commit Convention
 
-### [코딩 컨벤션 문서 바로 확인하기](https://pickle-grenadilla-f6e.notion.site/85edfed2b654415d9887fb6962b13fa2?pvs=4)
+### [커밋 컨벤션 문서 바로 확인하기](https://pickle-grenadilla-f6e.notion.site/d6ea61fc72814b02a9eb75c58f6fd428)
 
 ## 📄 API (Swagger)
 
@@ -97,3 +101,7 @@
 ## 🥽 테스트 데이터
 
 ### [테스트 데이터 바로 확인하기](https://pickle-grenadilla-f6e.notion.site/aef588b49efc4e4db457ab90429deba0?pvs=4)
+
+## 🎨 Figma
+
+### [피그마 바로 확인하기](https://www.figma.com/design/E1buWILbK16NDDzqfbZz3V/UStory?node-id=1-2&t=JmlO7YiKxAVXEqRG-1)
